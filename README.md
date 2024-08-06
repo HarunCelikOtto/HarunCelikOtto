@@ -1,5 +1,5 @@
 ## Hello Visitor! 👋
-My name is Harun and I'm a Humanist that Loves Interdisciplinary Work.
+My name is Harun and I'm a Humanist that loves interdisciplinary work.
 
 Check out the [Data Science for Public Good](https://dspg.iastate.edu/) program at Iowa State University!
 
